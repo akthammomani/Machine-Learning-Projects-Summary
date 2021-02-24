@@ -2,7 +2,7 @@
 
 | <code>Repository Name</code>  | <code>Summary</code> |
 | :--- |:--- |
-|Capstone Project Two: Predicting House Prices CA Bay Area |[Predicting House Prices in California - Bay Area.](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area)|
+|Capstone Project Two: Predicting House Prices CA Bay Area (Ongoing)|[Predicting House Prices in California - Bay Area.](https://github.com/akthammomani/Predicting-House-Prices-CA-Bay-Area)|
 |Capstone Project one: Big Mountain Resort Tickets Model |[To come up with a pricing model for ski resort tickets.](https://github.com/akthammomani/Big-Mountain-Resort-Pricing-Model) |
 |Reducing Traffic Mortality in the USA using K-means Clustering Powered by Tableau |[To reduce Traffic Mortality in the USA using K-means Clustering Powered by Tableau](https://github.com/akthammomani/US-Drivers-Segmentation-Kmeans-Clustering-Tableau) |
 |Customer Segmentation Using Machine Learning K-Means Clustering Powered by Tableau |[To optimize wholesale Wine business using Clustering with K-means powered by Tableau](https://github.com/akthammomani/Customers-Segmentation-Clustering-Kmeans-Tableau) |
